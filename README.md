@@ -1,4 +1,4 @@
-# Self_Study-safe-eye-
+# Self Study of safe-eye
 
 제가 참여한 safe-eye 프로젝트에 대한 이해도를 증진시키기 위해 따로 진행한 "프로젝트에 대한 전반적인 분석 내용들"을 정리한 레포지토리입니다.
 
