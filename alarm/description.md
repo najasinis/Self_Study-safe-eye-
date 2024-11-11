@@ -1,4 +1,4 @@
-# [Alarm 모델]
+# [Alarm 모델] (자습 완료)
 
 - id: AutoField, 알람의 고유 식별자
 - alarm_type: CharField, 알람 유형 (이상 행동, 위험 상황 등)
