@@ -1,12 +1,14 @@
-# __init__.py:
+# __init__.py(.):
 
 Python 패키지임을 나타내는 빈 파일
 해당 디렉토리가 Python 패키지로 취급되도록 함
 
-# admin.py:
+# admin.py(.):
 
 Django 관리자 페이지 설정
 모델을 관리자 페이지에 등록하고 커스터마이징
+
+
 
 # apps.py:
 
